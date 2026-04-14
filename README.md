@@ -1,4 +1,4 @@
-(https://github.com/denverkim/WEBCRAWLING/blob/main/WEB%20CRAWLING.jpg)
+![웹크롤링](https://github.com/denverkim/WEBCRAWLING/blob/main/WEB%20CRAWLING.jpg)
 
 | Week | Dates              | Topics             | Chapters   | Assignments             |
 |------|--------------------|--------------------|------------|-------------------------|
