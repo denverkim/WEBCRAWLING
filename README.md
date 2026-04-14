@@ -1,3 +1,5 @@
+(https://github.com/denverkim/WEBCRAWLING/blob/main/WEB%20CRAWLING.jpg)
+
 | Week | Dates              | Topics             | Chapters   | Assignments             |
 |------|--------------------|--------------------|------------|-------------------------|
 | 1    | 3/6                | 과목 및 파이썬 소개        | Chapter 01 | Post your introduction  | 
